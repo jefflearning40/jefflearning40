@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Jean-François | Développeur Web & Web Mobile  
 
-<!--
-**jefflearning40/jefflearning40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 À propos de moi  
+Je suis **Jean-François**, un passionné de développement web et web mobile, en formation pour devenir développeur **full-stack** (front-end & back-end).  
 
-Here are some ideas to get you started:
+🎮 Fan de jeux vidéo de simulation et de FPS  
+🎬 Amateur de cinéma  
+💡 Toujours curieux d’apprendre et d’explorer de nouvelles technologies  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Compétences  
+- **Front-end** : HTML, CSS, JavaScript  
+- **Back-end** : PHP, MySQL  
+- **Autres** : Git, GitHub  
+
+## 📫 Me contacter  
+📌 N’hésite pas à explorer mes projets et à me contacter pour discuter développement et tech !  
+
+---
+
+# 👋 Jean-François | Web & Mobile Developer  
+
+## 🚀 About Me  
+I’m **Jean-François**, passionate about web and mobile development, currently training to become a **full-stack developer** (front-end & back-end).  
+
+🎮 Fan of simulation and FPS video games  
+🎬 Movie enthusiast  
+💡 Always eager to learn and explore new technologies  
+
+## 🛠️ Skills  
+- **Front-end**: HTML, CSS, JavaScript  
+- **Back-end**: PHP, MySQL  
+- **Other**: Git, GitHub  
+
+## 📫 Contact Me  
+📌 Feel free to check out my projects and reach out to discuss development and tech!  
+
+---
+
+💻 **“Code, Play, Repeat”** 🎮  
